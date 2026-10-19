@@ -1,6 +1,6 @@
 # Developer LLM Wiki — Governance and Roadmap
 
-Datum: 2026-10-12
+Datum: 2026-10-19
 Status: Active
 
 ## AI_WIKI_INTEGRATION_PLAYBOOK.md
@@ -374,37 +374,37 @@ Status: Active
 
 ## ai_context/developer_llm_wiki/BUILD_TEST_CI_AND_OPERATIONS.md
 - Kategorie: governance_and_docs
-- Hash: `2326a5d22c631eb2`
+- Hash: `fbde283a35d7bc8f`
 - Titel: Developer LLM Wiki — Build/Test/CI/Operations
 - Auszug:
-  - Datum: 2026-10-12
+  - Datum: 2026-10-19
   - Status: Active
   - - Kategorie: build_test_ci
 
 ## ai_context/developer_llm_wiki/GOVERNANCE_AND_ROADMAP.md
 - Kategorie: governance_and_docs
-- Hash: `3f0eba3362b8d0c1`
+- Hash: `6247be8381fd5ad8`
 - Titel: Developer LLM Wiki — Governance and Roadmap
 - Auszug:
-  - Datum: 2026-10-05
+  - Datum: 2026-10-12
   - Status: Active
   - - Kategorie: governance_and_docs
 
 ## ai_context/developer_llm_wiki/INDEX.md
 - Kategorie: governance_and_docs
-- Hash: `05754d28f6f1d5c1`
+- Hash: `ab2f5b6292b4cc5f`
 - Titel: Developer LLM Wiki — Index
 - Auszug:
-  - Datum: 2026-10-12
+  - Datum: 2026-10-19
   - Status: Active
   - Bezug: CI-verwaltete Entwickler-Wissensbasis fuer Coder-LLMs
 
 ## ai_context/developer_llm_wiki/MODULES_AND_APIS.md
 - Kategorie: governance_and_docs
-- Hash: `9de8c52f9b60cb19`
+- Hash: `8a247554927c9fdb`
 - Titel: Developer LLM Wiki — Modules and APIs
 - Auszug:
-  - Datum: 2026-10-12
+  - Datum: 2026-10-19
   - Status: Active
   - - Kategorie: modules_and_api
 
@@ -473,12 +473,12 @@ Status: Active
 
 ## ai_context/developer_llm_wiki/WIKI_DELTA_REPORT.md
 - Kategorie: governance_and_docs
-- Hash: `cbe973fd153dc54c`
+- Hash: `47cb38588b8e3a68`
 - Titel: Developer LLM Wiki — Delta Report
 - Auszug:
-  - Datum: 2026-10-05
+  - Datum: 2026-10-12
   - Status: Active
-  - - Added: 7949
+  - - Added: 7958
 
 ## ai_context/legacy_status/STATUS_2026_08_01.md
 - Kategorie: governance_and_docs
