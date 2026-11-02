@@ -1,6 +1,6 @@
 # Developer LLM Wiki — Build/Test/CI/Operations
 
-Datum: 2026-10-26
+Datum: 2026-11-02
 Status: Active
 
 ## .github/workflows/benchmark-performance-gate.yml
