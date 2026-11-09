@@ -1,6 +1,6 @@
 # Developer LLM Wiki — Modules and APIs
 
-Datum: 2026-11-02
+Datum: 2026-11-09
 Status: Active
 
 ## include/acceleration/ai_hardware_dispatcher.h
